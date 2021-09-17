@@ -1,0 +1,18 @@
+div{
+    background-color: rgb(179, 54, 179);
+    height: 80px;
+}
+
+h1{
+    color: white;
+    padding: 17px 0 0 30px;
+}
+
+button{
+    color: white;
+    border-radius: 25px;
+}
+
+input{
+    border-radius: 0px;
+}
